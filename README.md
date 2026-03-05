@@ -25,8 +25,8 @@ Este proyecto es un conversor de monedas de consola desarrollado en Java. Es el 
 
 ## 👤 Autor
 **Jhoan Sebastián Montealegre Vargas**
-- [Mi perfil de GitHub](Reemplaza esto con tu link)
-- [Mi perfil de LinkedIn](Reemplaza esto con tu link)
+- [Mi perfil de GitHub]https://github.com/crespitosoff
+- [Mi perfil de LinkedIn]https://www.linkedin.com/in/sebasti%C3%A1n-montealegre/
 
 ---
 *Este proyecto fue desarrollado con dedicación y muchas tazas de café de especialidad. ☕*
