@@ -3,7 +3,7 @@ import com.google.gson.Gson;
 public class EjemploGson {
     public static void main(String[] args) {
         // Crea un objeto Java (La clase Persona es solo un ejemplo genérico)
-        Persona persona = new Persona("Juan", 30);
+        Persona persona = new Persona("Juan");
 
         // Crea una instancia de Gson
         Gson gson = new Gson();

@@ -1,10 +1,8 @@
 public class Persona {
     private final String nombre;
-    private final int edad;
 
-    public Persona(String nombre, int edad) {
+    public Persona(String nombre) {
         this.nombre = nombre;
-        this.edad = edad;
     }
 
     public String getNombre() {
