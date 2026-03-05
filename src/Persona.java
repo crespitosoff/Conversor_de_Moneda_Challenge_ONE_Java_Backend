@@ -1,6 +1,6 @@
 public class Persona {
-    private String nombre;
-    private int edad;
+    private final String nombre;
+    private final int edad;
 
     public Persona(String nombre, int edad) {
         this.nombre = nombre;
@@ -9,9 +9,5 @@ public class Persona {
 
     public String getNombre() {
         return this.nombre;
-    }
-
-    public int getEdad() {
-        return this.edad;
     }
 }

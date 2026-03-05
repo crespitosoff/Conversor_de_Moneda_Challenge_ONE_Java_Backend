@@ -1,5 +1,4 @@
 import com.google.gson.Gson;
-import com.google.gson.JsonObject;
 
 public class EjemploGson {
     public static void main(String[] args) {

@@ -52,7 +52,6 @@ public class ConversorApp {
                     break;
                 case 7:
                     System.out.println("Gracias por usar el conversor.");
-                    opcion = 7;
                     break;
             }
             System.out.println("\n");
